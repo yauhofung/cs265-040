@@ -1,4 +1,2 @@
-# cs265
-Welcome to CS265
-
-### Git Demo:
+# CS 265-040
+Welcome to Yau Ho's CS 265 repository!
